@@ -12,7 +12,7 @@ This post highlights some of the the main tools that can be used to troubleshoot
 - Remote Desktop
 - Active Directory Domain Services
 
-<h2>Resultant Set of Policy (rsop)</h2>
+<h2>1 - Resultant Set of Policy (rsop)</h2>
 
 <p>
   
@@ -42,24 +42,20 @@ Resultant Set of Policy (rsop) is a tool that can be run that will show all of t
 </p>
 <p>  
 
-<h2>gpresult /r</h2>
+<h2>2 - gpresult /r</h2>
 
  <p>gpresult /r is a command-line tool that will provide you with a convenient report that will list a lot of information reference you GPOs, including a list of applied GPOs.
   <p>
 
-
-    <p>
     1. Type CMD in the search bar
    
        <p>
 <img src="https://imgur.com/yRH45CG.png" width="40%" alt="Disk Sanitization Steps"/>
-</p>
-<p>     
+</p>    
     
     
     2. At the command-line, type gpresult /r and press Enter
     
-    <p>
 <img src="https://imgur.com/yRH45CG.png" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>  
