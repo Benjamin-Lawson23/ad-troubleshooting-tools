@@ -49,21 +49,21 @@ Resultant Set of Policy (rsop) is a tool that can be run that will show all of t
 
 
 <p>
-<img src="https://imgur.com/yRH45CG.png" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/d4QJCTs.png" width="40%" alt="Disk Sanitization Steps"/>
 </p>    
     
     
 2. At the command-line, type gpresult /r and press Enter
 
 <p>
-<img src="https://imgur.com/yRH45CG.png" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/yExcGE5.png" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 
 3. A report detailing how your GPOs are being applied will appear. Use this to troubleshoot. 
 
 <p>
-<img src="https://imgur.com/yRH45CG.png" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/6UjO15N.png" width="40%" alt="Disk Sanitization Steps"/>
 </p> 
   
-FINISHED
+END
 
