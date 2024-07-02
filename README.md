@@ -13,19 +13,16 @@ This post highlights some of the the main tools that can be used to troubleshoot
 - Active Directory Domain Services
 
 <h2>1 - Resultant Set of Policy (rsop)</h2>
-
-<p>
   
 Resultant Set of Policy (rsop) is a tool that can be run that will show all of the GPOs that are being applied. 
   
   
   1. Click on the Start button
  
-  
-    <p>
+  <p>
 <img src="https://imgur.com/EeWQTis.png" width="40%" alt="Disk Sanitization Steps"/>
 </p>
-<p>    
+
   
   2. Type rsop.msc
   
@@ -40,7 +37,7 @@ Resultant Set of Policy (rsop) is a tool that can be run that will show all of t
   <p>
 <img src="https://imgur.com/rRF1Q3n.png" width="40%" alt="Disk Sanitization Steps"/>
 </p>
-<p>  
+
 
 <h2>2 - gpresult /r</h2>
 
@@ -58,7 +55,7 @@ Resultant Set of Policy (rsop) is a tool that can be run that will show all of t
     
 <img src="https://imgur.com/yRH45CG.png" width="40%" alt="Disk Sanitization Steps"/>
 </p>
-<p>  
+
   
  
   
