@@ -4,7 +4,7 @@
 
 <h1>Troubleshooting tools for Group Policy Objects in Active Directory</h1>
 
-This post highlights some of the the main tools that can be used to troubleshoot Active Directory Group Policy Objects (GPOs).<br />
+This post highlights some of the the main tools that can be used to troubleshoot Active Directory Group Policy Objects (GPOs).<br/>
 
 <h2>Environments and Technologies Used</h2>
 
@@ -42,7 +42,7 @@ Resultant Set of Policy (rsop) is a tool that can be run that will show all of t
 <h2>2 - gpresult /r</h2>
 
 gpresult /r is a command-line tool that will provide you with a convenient report that will list a lot of information reference you GPOs, including a list of applied GPOs.
-
+</br>
 
     1. Type CMD in the search bar
    
