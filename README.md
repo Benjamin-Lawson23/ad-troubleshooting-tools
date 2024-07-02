@@ -17,25 +17,25 @@ This post highlights some of the the main tools that can be used to troubleshoot
 Resultant Set of Policy (rsop) is a tool that can be run that will show all of the GPOs that are being applied. 
   
   
-  1. Click on the Start button
+  1. Click on the Start button and type rsop.msc. Then press Enter
  
   <p>
 <img src="https://imgur.com/R07cx0R.png" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 
   
-  2. Type rsop.msc
+  2. Rsop will run
   
   <p>
-<img src="https://imgur.com/EeWQTis.png" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gOZkTFp.png" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>  
   
   
-  3. Enter
+  3. A new window similiar to Group Policy Management will appear. Here you can search through the options and find how your GPOs are being applied.
  
   <p>
-<img src="https://imgur.com/rRF1Q3n.png" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/nDP2Drj.png" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 
 
