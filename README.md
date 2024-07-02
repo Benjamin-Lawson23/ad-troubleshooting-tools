@@ -41,8 +41,8 @@ Resultant Set of Policy (rsop) is a tool that can be run that will show all of t
 
 <h2>2 - gpresult /r</h2>
 
- <p>gpresult /r is a command-line tool that will provide you with a convenient report that will list a lot of information reference you GPOs, including a list of applied GPOs.
-  <p>
+gpresult /r is a command-line tool that will provide you with a convenient report that will list a lot of information reference you GPOs, including a list of applied GPOs.
+
 
     1. Type CMD in the search bar
    
@@ -52,7 +52,8 @@ Resultant Set of Policy (rsop) is a tool that can be run that will show all of t
     
     
     2. At the command-line, type gpresult /r and press Enter
-    
+
+    <p>
 <img src="https://imgur.com/yRH45CG.png" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 
@@ -60,4 +61,4 @@ Resultant Set of Policy (rsop) is a tool that can be run that will show all of t
  
   
 FINISHED
-   </p>
+
