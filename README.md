@@ -20,7 +20,7 @@ Resultant Set of Policy (rsop) is a tool that can be run that will show all of t
   1. Click on the Start button
  
   <p>
-<img src="https://imgur.com/EeWQTis.png" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/R07cx0R.png" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 
   
